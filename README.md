@@ -13,6 +13,8 @@ Chapter 5. Data Description and Preparation 13
 
 Data Collection and Preprocessing
 
+Due to the company's policy on sensitive user data (name, surname, phone number, address, etc.), examples of data at work are shown from the moment of the first processing of sensitive data. The original dataset is not available on GitHub.
+
 The data was given in CSV format. The first step was removing all the sensitive data,
 such as the full user name and surname (and replacing them with user IDs), phone
 numbers, and addresses.
